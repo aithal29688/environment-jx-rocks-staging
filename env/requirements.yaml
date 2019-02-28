@@ -10,3 +10,6 @@ dependencies:
 - name: mulder
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: redis
+  version: 6.1.0
+  repository:  https://kubernetes-charts.storage.googleapis.com
